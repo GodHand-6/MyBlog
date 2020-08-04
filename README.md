@@ -9,7 +9,7 @@
 
 导航：
 <br>
-<img src=""/>
+![image] (https://github.com/GodHand-6/MyBlog/blob/master/static/first.png)
 <br>
 其中的标签页由于前期的设计错误而采用了一个静态页面去展示，因为是学习的练手项目，并没有推倒重构。
 前端代码还有很多兼容性的问题(整个开发过程在Chrome下测试)，对前端学习的比较浅显，没有响应式的设计，代码也没有优化，可以说只是完成了一个正常的功能。
